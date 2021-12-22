@@ -1,4 +1,4 @@
 ### Hi there 👋
 
-![Metrics](https://github.com/my-github-user/my-github-user/blob/main/github-metrics.svg)
+![Metrics](https://github.com/tapaafandi/tapaafandi/blob/main/github-metrics.svg)
 
